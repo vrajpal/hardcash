@@ -8,5 +8,11 @@ body {
     margin: 5px;
     width: 30%;
     display: inline-block;
-    text-decoration: underline; 
+    text-decoration: none; 
+}
+
+.day input {
+    /*display: block;*/
+    text-decoration: none;
+    margin-top: 8px;
 }
